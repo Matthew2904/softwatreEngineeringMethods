@@ -6,4 +6,13 @@
 
 [![Releases](https://img.shields.io/github/release/Matthew2904/sem/all.svg?style=flat-square)](https://github.com/Matthew2904/sem/releases)
 
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Matthew2904/softwareEnginerringMethods/develop.yml/develop?style=flat-square)
+
+![GitHub Workflow Status (develop)](https://img.shields.io/github/workflow/status/Matthew2904/softwareEngineeringMethods/main.yml/develop?style=flat-square)
+
+
+
+
+
+
+
+
